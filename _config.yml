@@ -1,7 +1,7 @@
 # Site settings
 title: Sunnypo Blog
 SEOTitle: Sunnypo Blog | 思源的博客
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-2019.jpg  # 页首缺省的图片路径
 email: siyuan0202@gmail.com
 description: "Of course I'm Kidding you."
 keyword: "Sunnypo, Sunnypo Blog, 思源的博客, sunny, Montreal"
